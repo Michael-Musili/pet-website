@@ -45,3 +45,19 @@ header li a {
 color: blue;  
 text-decoration: none;  
 }  
+.footer-content-right {
+    padding-right:40px;
+    margin-top:20px;
+    float:right;
+  }
+  
+  .icon-style {
+    height:40px;
+    margin-left:20px;
+    margin-top:5px;
+  }
+  
+  .icon-style:hover {
+    background-color: blue;
+    padding:5px;
+  }
