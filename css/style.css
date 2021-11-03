@@ -61,3 +61,15 @@ text-decoration: none;
     background-color: blue;
     padding:5px;
   }
+  .content .Dogs  h1{
+    color: black;
+    font-size: 30 px;
+  }
+  .content .Cats h1{
+    color: blue;
+    font-size: 30 px;
+  }
+  .content .Birds h1{
+    color: rgb(116, 33, 33);
+    font-size: 30px;
+  }
